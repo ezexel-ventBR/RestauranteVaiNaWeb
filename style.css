@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: tomato;
+  height: 100px;
+  padding-top: 30px;
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+  border: solid;
+}
+
+figure {
+  display: grid;
+  justify-items: center;
+}
+
+img {
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */
